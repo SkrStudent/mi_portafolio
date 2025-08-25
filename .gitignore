@@ -1,0 +1,14 @@
+# IntelliJ / IDE
+.idea/
+*.iml
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs / temporales
+*.log
+*.tmp
+
+# Node (por si algún día pruebas algo con npm)
+node_modules/
